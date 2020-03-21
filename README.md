@@ -4,4 +4,10 @@ This website is an example template of window compiler and hence can be used to 
 
 DEMO:-
 
-https://arshdeepsahni.github.io/websites/Versifixation/indexweb.html
+LOGIN-PAGE:   <CLICK ON -> "sign in">
+
+https://arshdeepsahni.github.io/websites/Versifixation/index.html
+
+MAIN-WEBSITE:-
+
+https://arshdeepsahni.github.io/websites/Versifixation/indexweb.htm
