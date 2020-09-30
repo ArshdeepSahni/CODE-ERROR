@@ -17,4 +17,5 @@
 |---|---|
 |![Screenshot 2020-05-25 at 1 28 48 PM](https://user-images.githubusercontent.com/56549294/82791681-d3d7cf00-9e8b-11ea-90bf-17cf3f296570.png)|![Screenshot 2020-05-25 at 1 28 04 PM](https://user-images.githubusercontent.com/56549294/82791700-d9cdb000-9e8b-11ea-9ad1-527550af3b9f.png)|
 |🔆|🌙|
+# ___Please Share this code and Give rating for this hard work.__(::)
 ## ___MADE WITH ❤. HIT 🌟 IF YOU LIKE IT___ 
